@@ -1,5 +1,6 @@
 ## Pocket Hero - ESP32 Handheld RPG
 
+** This game is a work in progress
 A scrolling RPG game built for ESP32 + ST7735 1.8" SPI TFT display (128×160), designed as a physical handheld device.
 
 ## Hardware
