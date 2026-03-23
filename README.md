@@ -4,6 +4,8 @@
 
 A scrolling RPG game built for ESP32 + ST7735 1.8" SPI TFT display (128×160), designed as a physical handheld device.
 
+![Image](project-image.png)
+
 ## Hardware
 - ESP32D dev board
 - KMR-1.8 SPI ST7735 128×160 TFT display
